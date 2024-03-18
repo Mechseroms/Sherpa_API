@@ -433,4 +433,4 @@ async def request_text_generation(message):
         awnser = open_ai_sherpa.ask_sherpa(question, user=message.author.display_name, messages=messages)
         await message.reply(awnser)
 
-client.run('MTE4MzA3MDY2MDYyMTI1MDcwMg.GPpNUT.iw9OyUl3i4JvETgi97ERILuwEvWVlHuP5eh4Xg')
+client.run('token')

@@ -1,5 +1,5 @@
 {
-    "api_key": "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",
+    "api_key": "token",
     "path_to_history": "message_history.json",
     "character_limit": 500,
     "image_model": "dall-e-3",
